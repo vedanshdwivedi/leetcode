@@ -3,7 +3,8 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        nz_index = cur_index = 0
+        nz_index = 0
+        cur_index = 0
         max_index = len(nums)
         while cur_index < max_index:
             if nums[cur_index] != 0:
