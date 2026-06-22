@@ -4,6 +4,5 @@ class Solution:
         minPrice = float('inf')
         for price in prices:
             minPrice = min(price, minPrice)
-            profit = price - minPrice
-            maxProfit = max(profit, maxProfit)
+            maxProfit = max(price - minPrice, maxProfit)
         return maxProfit
