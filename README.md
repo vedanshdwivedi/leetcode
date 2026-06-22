@@ -22,6 +22,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedanshdwivedi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vedanshdwivedi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/vedanshdwivedi/leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +50,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vedanshdwivedi/leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vedanshdwivedi/leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vedanshdwivedi/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vedanshdwivedi/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
