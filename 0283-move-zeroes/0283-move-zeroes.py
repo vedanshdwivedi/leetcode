@@ -5,13 +5,12 @@ class Solution:
         """
         nz_index = 0
         cur_index = 0
-        max_index = len(nums)
-        while cur_index < max_index:
+        while cur_index < len(nums):
             if nums[cur_index] != 0:
                 nums[nz_index] = nums[cur_index]
                 nz_index += 1
             cur_index += 1
-        for i in range(nz_index, max_index):
+        for i in range(nz_index, len(nums)):
             nums[i] = 0
 
         
