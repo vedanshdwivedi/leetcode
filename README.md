@@ -21,6 +21,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/vedanshdwivedi/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1480-running-sum-of-1d-array](https://github.com/vedanshdwivedi/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/vedanshdwivedi/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0724-find-pivot-index](https://github.com/vedanshdwivedi/leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/vedanshdwivedi/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1480-running-sum-of-1d-array](https://github.com/vedanshdwivedi/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
@@ -102,4 +105,5 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/vedanshdwivedi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/vedanshdwivedi/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 <!---LeetCode Topics End-->
