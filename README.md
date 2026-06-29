@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/vedanshdwivedi/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/vedanshdwivedi/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/vedanshdwivedi/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vedanshdwivedi/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/vedanshdwivedi/leetcode/tree/master/0169-majority-element) |
+| [0523-continuous-subarray-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vedanshdwivedi/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vedanshdwivedi/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vedanshdwivedi/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -66,6 +69,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vedanshdwivedi/leetcode/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Recursion
 |  |
 | ------- |
