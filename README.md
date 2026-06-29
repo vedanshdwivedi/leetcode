@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/vedanshdwivedi/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/vedanshdwivedi/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/vedanshdwivedi/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/vedanshdwivedi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vedanshdwivedi/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/vedanshdwivedi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -91,8 +93,13 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vedanshdwivedi/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/vedanshdwivedi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Sliding Window
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/vedanshdwivedi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
