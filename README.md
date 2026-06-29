@@ -16,6 +16,7 @@
 | [0523-continuous-subarray-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vedanshdwivedi/leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vedanshdwivedi/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -26,6 +27,7 @@
 | [0169-majority-element](https://github.com/vedanshdwivedi/leetcode/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -58,6 +60,7 @@
 | [0523-continuous-subarray-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vedanshdwivedi/leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/vedanshdwivedi/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
@@ -85,4 +88,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vedanshdwivedi/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
