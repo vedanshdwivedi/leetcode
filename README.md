@@ -45,6 +45,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vedanshdwivedi/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/vedanshdwivedi/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -106,4 +107,8 @@
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/vedanshdwivedi/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/vedanshdwivedi/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/vedanshdwivedi/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
