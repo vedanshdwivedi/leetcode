@@ -1,13 +1,20 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        if not nums:
-            return 0
-        
-        el_index = 1
-        for i in range(1, len(nums)):
-            if nums[i] != nums[i-1]:
-                nums[el_index] = nums[i]
-                el_index += 1
-            
-        return el_index
+        seen = {}
+        curEligibleIndex = 0
+        curIndex = 0
+        while curIndex < len(nums):
+            if nums[curIndex] in seen:
+                curIndex += 1
+            else:
+                seen[nums[curIndex]] = True
+                nums[curEligibleIndex] = nums[curIndex]
+                curIndex += 1
+                curEligibleIndex += 1
 
+        return curEligibleIndex
+
+# curIndex = 0 (curIndex < 3)
+# curEligibleIndex = 0
+# seen = {}
+# nums = [1,1,2]
