@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedanshdwivedi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vedanshdwivedi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedanshdwivedi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vedanshdwivedi/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/vedanshdwivedi/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/vedanshdwivedi/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -48,6 +49,7 @@
 | [0027-remove-element](https://github.com/vedanshdwivedi/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vedanshdwivedi/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedanshdwivedi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vedanshdwivedi/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vedanshdwivedi/leetcode/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedanshdwivedi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
