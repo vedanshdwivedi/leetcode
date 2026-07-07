@@ -7,7 +7,8 @@ class Solution:
         curIndex = 0
         while curIndex < len(nums):
             if nums[curIndex] != 0:
-                nums[curEligibleIndex] = nums[curIndex]
+                if curEligibleIndex != curIndex:
+                    nums[curEligibleIndex] = nums[curIndex]
                 curEligibleIndex += 1
             curIndex += 1
         for i in range(curEligibleIndex, len(nums)):
