@@ -3,16 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        nz_index = 0
-        cur_index = 0
-        max_index = len(nums)
-        while cur_index < max_index:
-            if nums[cur_index] != 0:
-                nums[nz_index] = nums[cur_index]
-                nz_index += 1
-            cur_index += 1
-        for i in range(nz_index, max_index):
+        curEligibleIndex = 0
+        curIndex = 0
+        while curIndex < len(nums):
+            if nums[curIndex] != 0:
+                nums[curEligibleIndex] = nums[curIndex]
+                curEligibleIndex += 1
+            curIndex += 1
+        for i in range(curEligibleIndex, len(nums)):
             nums[i] = 0
+
 
         
         
