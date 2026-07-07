@@ -1,5 +1,7 @@
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
-        return sorted([x*x for x in nums])
+        return [y*y for y in sorted([abs(x) for x in nums])]
+        
+        
         
         
