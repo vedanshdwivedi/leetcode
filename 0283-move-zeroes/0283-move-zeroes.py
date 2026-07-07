@@ -3,16 +3,12 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        curEligibleIndex = 0
-        curIndex = 0
-        while curIndex < len(nums):
-            if nums[curIndex] != 0:
-                if curEligibleIndex != curIndex:
-                    nums[curEligibleIndex] = nums[curIndex]
-                curEligibleIndex += 1
-            curIndex += 1
-        for i in range(curEligibleIndex, len(nums)):
-            nums[i] = 0
+        slow = 0
+
+        for fast in range(len(nums)):
+            if nums[fast] != 0:
+                nums[slow], nums[fast] = nums[fast], nums[slow]
+                slow += 1
 
 
         
