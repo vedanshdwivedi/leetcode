@@ -3,20 +3,21 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        p1 = m - 1
-        p2 = n - 1
-        res_index = m + n - 1
-        while p1 >= 0 and p2 >= 0:
+        p1, p2 = m - 1, n - 1
+        resIndex = m + n - 1
+        while p1 > -1 and p2 > -1:
             if nums1[p1] > nums2[p2]:
-                nums1[res_index] = nums1[p1]
+                nums1[resIndex] = nums1[p1]
                 p1 -= 1
             else:
-                nums1[res_index] = nums2[p2]
+                nums1[resIndex] = nums2[p2]
                 p2 -= 1
-            res_index -= 1
-        while p2 >= 0:
-            nums1[res_index] = nums2[p2]
-            res_index -= 1
-            p2 -= 1
+            resIndex -= 1
+        if p2 > -1:
+            for i in range(p2, -1, -1):
+                nums1[resIndex] = nums2[p2]
+                resIndex -= 1
+                p2 -= 1
+
         
         
