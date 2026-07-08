@@ -20,11 +20,10 @@ class Solution:
                         left += 1
                     while left < right and nums[right] == nums[right + 1]:
                         right -= 1
+                elif current > 0:
+                    right -= 1
                 else:
-                    if current > 0:
-                        right -= 1
-                    else:
-                        left += 1
+                    left += 1
                     
         return triplets
 
