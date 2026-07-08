@@ -5,6 +5,8 @@ class Solution:
         for i in range(len(nums)):
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
+            if nums[i] > 0:
+                continue
             left = i + 1
             right = len(nums) - 1
             while left < right:
