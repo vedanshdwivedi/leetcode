@@ -3,10 +3,10 @@ class Solution:
         maxWater = -1
         left, right = 0, len(height) - 1
         while left <= right:
-            minHeight = min(height[left], height[right])
-            distance = right - left
-            water = distance * minHeight
-            maxWater = max(maxWater, water)
+            # distance = (right - left)
+            # height = min(height[left], height[right])
+            # water = distance * height
+            maxWater = max(maxWater, (right - left) * min(height[left], height[right]))
             if height[left] < height[right]:
                 left += 1
             else:
