@@ -6,7 +6,9 @@ class Solution:
             # distance = (right - left)
             # height = min(height[left], height[right])
             # water = distance * height
-            maxWater = max(maxWater, (right - left) * min(height[left], height[right]))
+            water = (right - left) * min(height[left], height[right])
+            if water > maxWater:
+                maxWater = water
             if height[left] < height[right]:
                 left += 1
             else:
