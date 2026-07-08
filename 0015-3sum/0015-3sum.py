@@ -3,9 +3,7 @@ class Solution:
         nums = sorted(nums)
         triplets = []
         for i in range(len(nums)):
-            if i > 0 and nums[i] == nums[i - 1]:
-                continue
-            if nums[i] > 0:
+            if (i > 0 and nums[i] == nums[i - 1]) or nums[i] > 0:
                 continue
             left = i + 1
             right = len(nums) - 1
