@@ -1,11 +1,8 @@
 class Solution:
-    def isVowel(self, s: str) -> bool:
-        return s.lower() in {'a', 'e', 'i', 'o', 'u'}
-
     def reverseVowels(self, s: str) -> str:
         vowelIndices = []
         for i in range(len(s)):
-            if self.isVowel(s[i]):
+            if s[i].lower() in {'a', 'e', 'i', 'o', 'u'}:
                 vowelIndices.append(i)
         left, right = 0, len(vowelIndices) - 1
         s = list(s)
