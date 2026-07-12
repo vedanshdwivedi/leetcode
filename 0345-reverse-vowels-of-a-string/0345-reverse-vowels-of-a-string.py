@@ -6,8 +6,7 @@ class Solution:
                 vowelIndices.append(i)
         left, right = 0, len(vowelIndices) - 1
         s = list(s)
-        # print(vowelIndices)
-        while left <= right:
+        while left < right:
             s[vowelIndices[left]], s[vowelIndices[right]] = s[vowelIndices[right]], s[vowelIndices[left]]
             left += 1
             right -= 1
