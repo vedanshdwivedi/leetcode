@@ -26,6 +26,7 @@
 | [0724-find-pivot-index](https://github.com/vedanshdwivedi/leetcode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/vedanshdwivedi/leetcode/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0948-bag-of-tokens](https://github.com/vedanshdwivedi/leetcode/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vedanshdwivedi/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/vedanshdwivedi/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -64,6 +65,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/vedanshdwivedi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/vedanshdwivedi/leetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/vedanshdwivedi/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/vedanshdwivedi/leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@
 | [0088-merge-sorted-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vedanshdwivedi/leetcode/tree/master/0169-majority-element) |
 | [0881-boats-to-save-people](https://github.com/vedanshdwivedi/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/vedanshdwivedi/leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -82,6 +85,7 @@
 | [0011-container-with-most-water](https://github.com/vedanshdwivedi/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vedanshdwivedi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/vedanshdwivedi/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/vedanshdwivedi/leetcode/tree/master/0948-bag-of-tokens) |
 ## Prefix Sum
 |  |
 | ------- |
