@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vedanshdwivedi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/vedanshdwivedi/leetcode/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vedanshdwivedi/leetcode/tree/master/0525-contiguous-array) |
@@ -129,6 +130,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vedanshdwivedi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/vedanshdwivedi/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/vedanshdwivedi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vedanshdwivedi/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -140,6 +142,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vedanshdwivedi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/vedanshdwivedi/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vedanshdwivedi/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vedanshdwivedi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
