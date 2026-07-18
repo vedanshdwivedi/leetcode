@@ -9,7 +9,7 @@ class Solution:
                 minLen = min(minLen, right - left + 1)
                 curSum -= nums[left]
                 left += 1
-        return minLen if minLen < 1000000 else 0
+        return 0 if minLen == inf else minLen
 
 
             
