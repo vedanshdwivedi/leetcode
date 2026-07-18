@@ -1,11 +1,9 @@
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
         minLen = 1000000
-        curSum = nums[0]
-        if curSum >= target:
-            return 1
+        curSum = 0
         left= 0
-        for right in range(1, len(nums)):
+        for right in range(len(nums)):
             curSum += nums[right]
             while curSum >= target:
                 minLen = min(minLen, right - left + 1)
